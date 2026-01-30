@@ -8,33 +8,32 @@
 <a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/license.svg" alt="License"></a>
 </p>
 
-## About Flarum
+## Flarum 소개
 
-**[Flarum](https://flarum.org/) is a delightfully simple discussion platform for your website.** It's fast and easy to use, with all the features you need to run a successful community. It is designed to be:
+**[Flarum](https://flarum.org/)은 웹사이트를 위한 심플하고 즐거운 토론 플랫폼입니다.** 빠르고 사용하기 쉬우며, 성공적인 커뮤니티를 운영하는 데 필요한 기능을 갖추고 있습니다. Flarum은 다음을 목표로 설계되었습니다:
 
-* **Fast and simple.** No clutter, no bloat, no complex dependencies. Flarum is built with PHP so it’s quick and easy to deploy. The interface is powered by Mithril, a performant JavaScript framework with a tiny footprint.
+* **빠르고 단순함.** 불필요한 요소 없이, 복잡한 의존성 없이. PHP로 만들어 배포가 빠르고 쉽습니다. 인터페이스는 Mithril이라는 가벼운 JavaScript 프레임워크로 구동됩니다.
 
-* **Beautiful and responsive.** This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box.
+* **아름답고 반응형.** 사람을 위한 포럼 소프트웨어입니다. Flarum은 다양한 플랫폼에서 일관되고 직관적으로 동작하도록 꼼꼼히 설계되었습니다.
 
-* **Powerful and extensible.** Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, with a powerful Extension API.
+* **강력하고 확장 가능.** 커뮤니티에 맞게 Flarum을 커스터마이징·확장·연동할 수 있습니다. 강력한 Extension API로 유연한 아키텍처를 제공합니다.
 
 ![screenshot](https://flarum.org/assets/flarum/home-screenshot.png)
 
-## Installation
+## 설치
 
-Read the **[Installation guide](https://docs.flarum.org/install)** to get started. For support, refer to the [documentation](https://docs.flarum.org/), and ask questions on the [community forum](https://discuss.flarum.org/) or [Discord chat](https://flarum.org/discord/).
+시작하려면 **[설치 가이드](https://docs.flarum.org/install)**를 참고하세요. 도움이 필요하면 [문서](https://docs.flarum.org/)를 보고, [커뮤니티 포럼](https://discuss.flarum.org/)이나 [Discord 채팅](https://flarum.org/discord/)에서 질문할 수 있습니다.
 
-## Contributing
+## 기여하기
 
-Thank you for considering contributing to Flarum! Please read the **[Contributing guide](https://docs.flarum.org/contributing)** to learn how you can help.
+Flarum에 기여해 주시려는 분들께 감사합니다. **[기여 가이드](https://docs.flarum.org/contributing)**를 읽고 참여 방법을 확인해 주세요.
 
-This repository only holds the Flarum skeleton application. Most development happens in [flarum/core](https://github.com/flarum/core).
+이 저장소는 Flarum 스켈레톤 애플리케이션만 포함합니다. 대부분의 개발은 [flarum/core](https://github.com/flarum/core)에서 이루어집니다.
 
-## Security Vulnerabilities
+## 보안 취약점
 
-If you discover a security vulnerability within Flarum, please follow our [security policy](https://github.com/flarum/core/security/policy) so we can address it promptly.
+Flarum 내 보안 취약점을 발견하셨다면 [보안 정책](https://github.com/flarum/core/security/policy)에 따라 신고해 주시면 신속히 대응하겠습니다.
 
-## License
+## 라이선스
 
-Flarum is open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
-
+Flarum은 [MIT 라이선스](https://github.com/flarum/flarum/blob/master/LICENSE) 하에 공개된 오픈소스 소프트웨어입니다.
