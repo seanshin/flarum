@@ -31,7 +31,9 @@
 
 ## 설치
 
-시작하려면 **[설치 가이드](https://docs.flarum.org/install)**를 참고하세요. 도움이 필요하면 [문서](https://docs.flarum.org/)를 보고, [커뮤니티 포럼](https://discuss.flarum.org/)이나 [Discord 채팅](https://flarum.org/discord/)에서 질문할 수 있습니다.
+시작하려면 **[설치 가이드](https://docs.flarum.org/install)**를 참고하세요.
+
+**한글화:** 포럼 UI를 한글로 쓰려면 [한글화 가이드](docs/LOCALIZATION.md)를 참고하세요. 도움이 필요하면 [문서](https://docs.flarum.org/)를 보고, [커뮤니티 포럼](https://discuss.flarum.org/)이나 [Discord 채팅](https://flarum.org/discord/)에서 질문할 수 있습니다.
 
 ## 기여하기
 
