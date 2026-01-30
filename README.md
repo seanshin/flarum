@@ -2,6 +2,15 @@
 <a href="https://flarum.org/"><img src="https://flarum.org/images/flarum.svg"></a>
 </p>
 
+---
+
+# 📌 클론 프로젝트
+
+> **이 저장소는 [Flarum](https://github.com/flarum/flarum) 공식 저장소의 클론입니다.**  
+> 한글 문서화 및 참고용으로 활용합니다.
+
+---
+
 <p align="center">
 <a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/v/stable.svg" alt="Latest Stable Version"></a>
